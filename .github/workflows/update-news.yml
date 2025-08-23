@@ -3,6 +3,7 @@ on:
   schedule:
     - cron: '0 * * * *'  # Runs hourly
   workflow_dispatch:     # Manual trigger
+
 jobs:
   convert-sheet-to-json:
     runs-on: ubuntu-latest
@@ -13,7 +14,7 @@ jobs:
       - name: Fetch Google Sheet data
         run: |
           curl -sL "https://docs.google.com/spreadsheets/d/e/2PACX-1vTHB5AVWqNq08WRPc4mMoAstF7TaU6n0k8VxTSJcoy3BUp_wSyBrSO6Cmrjh7j_CoKEQA6p_0b9R0Q0/pub?gid=0&single=true&output=csv" -o news.csv
-    python3 -c '
+          python3 -c '
           import csv, json
           with open("news.csv") as f:
             # Read all rows and skip header
