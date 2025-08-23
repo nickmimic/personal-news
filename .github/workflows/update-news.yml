@@ -1,0 +1,36 @@
+name: Update News
+on:
+  schedule:
+    - cron: '0 * * * *'  # Runs hourly
+  workflow_dispatch:     # Manual trigger
+jobs:
+  convert-sheet-to-json:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.ACTION_TOKEN }}
+      - name: Fetch Google Sheet data
+        run: |
+          curl -sL "https://docs.google.com/spreadsheets/d/e/2PACX-1vTHB5AVWqNq08WRPc4mMoAstF7TaU6n0k8VxTSJcoy3BUp_wSyBrSO6Cmrjh7j_CoKEQA6p_0b9R0Q0/pub?output=csv" -o news.csv
+          python3 -c '
+          import csv, json
+          with open("news.csv") as f:
+            # Read all rows and skip header
+            all_rows = list(csv.reader(f))[1:]
+            # Create full news list (most recent first)
+            all_news = [{"title": row[0], "url": row[1], "date": row[2] if len(row) > 2 else ""} for row in reversed(all_rows)]
+            # Create recent news list (last 5 entries)
+            recent_news = all_news[:5]
+          with open("news.json", "w") as f:
+            json.dump(recent_news, f, indent=2)
+          with open("all-news.json", "w") as f:
+            json.dump(all_news, f, indent=2)
+          '
+      - name: Commit changes
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add news.json all-news.json
+          git commit -m "Auto-update news JSON files" || echo "No changes"
+          git push
