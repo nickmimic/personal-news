@@ -1,5 +1,10 @@
 [
   {
+    "title": "Cointelegraph - BTC ETFs Major Trading Volume",
+    "url": "https://cointelegraph.com/news/bitcoin-etfs-take-share-spot-trading-volume",
+    "date": ""
+  },
+  {
     "title": "CoinDesk - ETH DeFi Lags Amid Higher Prices",
     "url": "https://www.coindesk.com/markets/2025/08/26/ethereum-defi-lags-behind-even-as-ether-price-crossed-record-highs",
     "date": ""
@@ -17,11 +22,6 @@
   {
     "title": "The Block - BTC Falls After Whale Dumps",
     "url": "https://www.theblock.co/post/368060/bitcoin-under-112700-whale-migration",
-    "date": ""
-  },
-  {
-    "title": "CoinDesk - BTC Hovers Ahead Fed Speech",
-    "url": "https://www.coindesk.com/markets/2025/08/21/bitcoin-hovers-at-usd113k-solana-and-dogecoin-lead-gains-ahead-of-powell-s-jackson-hole-speech",
     "date": ""
   }
 ]
