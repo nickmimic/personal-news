@@ -1,1 +1,862 @@
-[]
+[
+  {
+    "title": "Cointelegraph - Investors Await Key Movements",
+    "url": "https://cointelegraph.com/news/bitcoin-defends-major-support-zone-while-markets-await-fed-meeting-this-week",
+    "date": ""
+  },
+  {
+    "title": "The Block - BTC ETFs see $195M Outflows",
+    "url": "https://www.theblock.co/post/381473/spot-bitcoin-etfs-see-195-million-exit",
+    "date": ""
+  },
+  {
+    "title": "Cointelegraph - XRP Sentiment On Edge",
+    "url": "https://cointelegraph.com/news/xrp-sentiment-plummets-which-could-set-token-up-for-rally-santiment",
+    "date": ""
+  },
+  {
+    "title": "CoinTelegraph - BTC Will See Six Figs",
+    "url": "https://cointelegraph.com/news/analysts-eye-six-figures-bitcoin-rebounds-back-to-crucial-resistance-zone",
+    "date": ""
+  },
+  {
+    "title": "The Block - Spot BTC ETFs Outflows $3.5B Nov",
+    "url": "https://www.theblock.co/post/380847/spot-bitcoin-etf-outflow-november",
+    "date": ""
+  },
+  {
+    "title": "CoinTelegraph - Bitcoin Set for Promising New Year",
+    "url": "https://cointelegraph.com/news/bitcoin-likely-on-track-worst-november-in-7-years-analysts",
+    "date": ""
+  },
+  {
+    "title": "The Block - Spot SOL ETFs 20 Day Inflows",
+    "url": "https://www.theblock.co/post/380304/spot-solana-etf-20-days-inflows",
+    "date": ""
+  },
+  {
+    "title": "Bloomberg - BTC ETFs Worst Month",
+    "url": "https://www.bloomberg.com/news/articles/2025-11-24/bitcoin-btc-funds-set-for-worst-month-as-investors-yank-3-5-billion",
+    "date": ""
+  },
+  {
+    "title": "The Block - BTC ETH ETFs See $437m Outflows",
+    "url": "https://www.theblock.co/post/379211/bitcoin-ethereum-spot-etfs-440-million-outflows",
+    "date": ""
+  },
+  {
+    "title": "Bloomberg - BTC ETF Investors in Red",
+    "url": "https://www.bloomberg.com/news/articles/2025-11-18/bitcoin-etf-investors-now-in-the-red-after-89-600-level-breaks?srnd=undefined",
+    "date": ""
+  },
+  {
+    "title": "CoinDesk - What's Next After Crypto Drop",
+    "url": "https://www.coindesk.com/markets/2025/11/17/what-next-for-crypto-bulls-as-eth-xrp-sol-ada-drop-8-16-in-a-week",
+    "date": ""
+  },
+  {
+    "title": "Bloomberg - BTC Bear Market Deepends",
+    "url": "https://www.bloomberg.com/news/articles/2025-11-14/bitcoin-s-bear-market-deepens-as-etf-investors-yank-870-million?srnd=undefined",
+    "date": ""
+  },
+  {
+    "title": "The Block - US Spot Solana ETF 10 Day Inflows",
+    "url": "https://www.theblock.co/post/378309/spot-solana-etfs-tenth-consecutive-inflows",
+    "date": ""
+  },
+  {
+    "title": "CoinDesk - Traders Hope For Santa Rally",
+    "url": "https://www.coindesk.com/markets/2025/11/11/bitcoin-traders-eye-seasonal-santa-rally-as-fed-moves-spur-volatility-hopes",
+    "date": ""
+  },
+  {
+    "title": "The Block - Crypto Surges as US Ends Shutdown",
+    "url": "https://www.theblock.co/post/378122/bitcoin-ethereum-surge-senate-advances-bill-government-shutdown",
+    "date": ""
+  },
+  {
+    "title": "The Block - Polymarket Rebound",
+    "url": "https://www.theblock.co/post/377214/polymarket-rebounds-kalshi-leads",
+    "date": ""
+  },
+  {
+    "title": "The Block - Record-Breaking Stablecoin Volume",
+    "url": "https://www.theblock.co/post/377195/ethereum-stablecoin-volume-all-time-high",
+    "date": ""
+  },
+  {
+    "title": "CoinDesk - Fed Cut Sell-the-News",
+    "url": "https://www.coindesk.com/markets/2025/10/30/crypto-traders-take-on-usd800m-liquidations-as-fed-s-caution-sparks-sell-the-news-reversal",
+    "date": ""
+  },
+  {
+    "title": "Bloomberg - BTC Losses on Powell Speech",
+    "url": "https://www.bloomberg.com/news/articles/2025-10-30/bitcoin-btc-extends-losses-as-powell-cautions-against-rate-cut-bets",
+    "date": ""
+  },
+  {
+    "title": "The Block - BTC Surges Bears Liquidated",
+    "url": "https://www.theblock.co/post/376192/bitcoin-150000-short-liquidations",
+    "date": ""
+  },
+  {
+    "title": "CoinDesk - BTC Holds On Uptober Dud",
+    "url": "https://www.coindesk.com/markets/2025/10/25/xrp-leads-gains-on-ripple-moves-bitcoin-holds-usd111k-as-uptober-dud-heads-for-last-week",
+    "date": ""
+  },
+  {
+    "title": "Cointelegraph - BTC May Fall to $104k",
+    "url": "https://cointelegraph.com/news/analysts-see-final-flush-104k-before-bull-market-resumes",
+    "date": ""
+  },
+  {
+    "title": "The Block - BTC ETFs Log $477M Inflows",
+    "url": "https://www.theblock.co/post/375622/spot-bitcoin-etfs-log-477-million-in-positive-flows-amid-softening-gold-demand",
+    "date": ""
+  },
+  {
+    "title": "The Block - $536m BTC ETF Outflows",
+    "url": "https://www.theblock.co/post/375066/spot-bitcoin-etfs-536-million-outflow",
+    "date": ""
+  },
+  {
+    "title": "The Block - Crypto Falls Under Macro Headwinds",
+    "url": "https://www.theblock.co/post/375039/bitcoin-down-market-extreme-fear",
+    "date": ""
+  },
+  {
+    "title": "The Block - Crypto Recovery After Black Friday Crash",
+    "url": "https://www.theblock.co/post/374302/bitcoin-ethereum-rebound-following-massive-wipeout",
+    "date": ""
+  },
+  {
+    "title": "CoinDesk - BTC ATH Alts Catching Up",
+    "url": "https://www.coindesk.com/markets/2025/10/06/xrp-doge-sol-see-profit-taking-but-bitcoin-s-new-lifetime-high-maybe-isn-t-the-top",
+    "date": ""
+  },
+  {
+    "title": "Cointelegraph - Uptober as BTC Soars Higher",
+    "url": "https://cointelegraph.com/news/uptober-underway-btc-approaching-seven-week-high-20k",
+    "date": ""
+  },
+  {
+    "title": "CoinDesk - Trader Wait on Sept Jobs Report",
+    "url": "https://www.coindesk.com/markets/2025/10/01/traders-eye-september-jobs-report-for-cues-on-bitcoin-breakout-above-usd120k",
+    "date": ""
+  },
+  {
+    "title": "CoinDesk - Perp DEXs Capital Rotation",
+    "url": "https://www.coindesk.com/markets/2025/09/26/near-usd30m-ether-wipeout-on-hyperliquid-stands-out-as-crypto-market-sees-usd1b-in-liquidation",
+    "date": ""
+  },
+  {
+    "title": "CryptoPotato - ETH Falls to $4k",
+    "url": "https://cryptopotato.com/ethereum-sees-red-crashes-to-4k-in-a-7-week-low-where-to-next/",
+    "date": ""
+  },
+  {
+    "title": "CryptoPotato - Fed Decision on Crypto",
+    "url": "https://cryptopotato.com/3-things-that-could-impact-crypto-markets-as-fed-decision-looms/",
+    "date": ""
+  },
+  {
+    "title": "The Block - ETH Stablecoin Supply Record High",
+    "url": "https://www.theblock.co/post/370586/ethereum-stablecoin-supply-record-166-billion",
+    "date": ""
+  },
+  {
+    "title": "Cointelegraph - Whales Dump Firms Buy",
+    "url": "https://cointelegraph.com/news/bitcoin-whales-dumped-115000-btc-largest-selloff-since-mid-2022",
+    "date": ""
+  },
+  {
+    "title": "The Block - ETH Outperforms BTC",
+    "url": "https://www.theblock.co/post/369411/ether-outperforms-bitcoin",
+    "date": ""
+  },
+  {
+    "title": "The Block - BTC ETF Inflows Dominate ETH",
+    "url": "https://www.theblock.co/post/369229/bitcoin-etfs-ending-ethereum-dominance",
+    "date": ""
+  },
+  {
+    "title": "CoinDesk - BTC Traders Look To Gold",
+    "url": "https://www.coindesk.com/markets/2025/09/02/bitcoin-floats-around-usd110k-as-traders-look-towards-friday-data-for-upside",
+    "date": ""
+  },
+  {
+    "title": "CoinDesk - Sept Weakest Month for Crypto",
+    "url": "https://www.coindesk.com/markets/2025/09/01/bitcoin-hovers-around-usd107k-as-weakest-month-for-crypto-begins",
+    "date": ""
+  },
+  {
+    "title": "Cointelegraph - BTC ETFs Major Trading Volume",
+    "url": "https://cointelegraph.com/news/bitcoin-etfs-take-share-spot-trading-volume",
+    "date": ""
+  },
+  {
+    "title": "CoinDesk - ETH DeFi Lags Amid Higher Prices",
+    "url": "https://www.coindesk.com/markets/2025/08/26/ethereum-defi-lags-behind-even-as-ether-price-crossed-record-highs",
+    "date": ""
+  },
+  {
+    "title": "The Block - ETH ETFs Outpace BTC",
+    "url": "https://www.theblock.co/post/368214/spot-ethereum-etfs-444-million-inflows",
+    "date": ""
+  },
+  {
+    "title": "The Block - SOL $1B treasury firm",
+    "url": "https://www.theblock.co/post/368081/galaxy-jump-multicoin-solana-treasury",
+    "date": ""
+  },
+  {
+    "title": "The Block - BTC Falls After Whale Dumps",
+    "url": "https://www.theblock.co/post/368060/bitcoin-under-112700-whale-migration",
+    "date": ""
+  },
+  {
+    "title": "CoinDesk - BTC Hovers Ahead Fed Speech",
+    "url": "https://www.coindesk.com/markets/2025/08/21/bitcoin-hovers-at-usd113k-solana-and-dogecoin-lead-gains-ahead-of-powell-s-jackson-hole-speech",
+    "date": ""
+  },
+  {
+    "title": "CoinDesk - Price Drop Profit Taking",
+    "url": "https://www.coindesk.com/markets/2025/08/18/solana-s-sol-xrp-dive-5-amid-profit-taking-bitcoin-traders-eye-gold-divergence",
+    "date": ""
+  },
+  {
+    "title": "Deribit - X Spaces Retail Users",
+    "url": "https://x.com/DeribitOfficial/status/1955609534484939244",
+    "date": ""
+  },
+  {
+    "title": "CoinDesk - Macro Pressure",
+    "url": "https://www.coindesk.com/markets/2025/08/15/bullish-bets-lose-usd860m-to-liquidations-as-eth-btc-xrp-doge-price-drop-9",
+    "date": ""
+  },
+  {
+    "title": "CoinDesk - BTC Resilent ETH Surge",
+    "url": "https://www.coindesk.com/markets/2025/08/13/bitcoin-holds-near-usd120k-ether-rallies-towards-usd4-7k-on-trump-s-comment-fed-rate-cut-bets",
+    "date": ""
+  },
+  {
+    "title": "CoinTelegraph - BTC vs Altcoins",
+    "url": "https://cointelegraph.com/news/bitcoin-will-godzilla-up-or-sell-off-as-alt-mania-peaks-samson-mow",
+    "date": ""
+  },
+  {
+    "title": "Cointelegraph - ETH $4.3k Pump",
+    "url": "https://www.theblock.co/post/365568/spot-ethereum-etfs-largest-daily-outflow",
+    "date": ""
+  },
+  {
+    "title": "The Block - ETH ETFs $1b Inflow",
+    "url": "https://www.theblock.co/post/366486/spot-ethereum-etfs-1-billion",
+    "date": ""
+  },
+  {
+    "title": "The Block - ETH ETF Outflow",
+    "url": "https://www.theblock.co/post/365568/spot-ethereum-etfs-largest-daily-outflow",
+    "date": ""
+  },
+  {
+    "title": "The Block - ETF Return Inflows",
+    "url": "https://www.theblock.co/post/365902/spot-bitcoin-etfs-return-to-net-inflows",
+    "date": ""
+  },
+  {
+    "title": "Cointelegraph - BTC dips to $115K",
+    "url": "https://cointelegraph.com/news/fed-rate-cut-chance-fall-september-slowing-crypto-bull-run",
+    "date": ""
+  },
+  {
+    "title": "CoinDesk - BTC Struggles at $115k",
+    "url": "https://www.coindesk.com/markets/2025/08/05/bitcoin-struggles-to-hold-usd115k-solana-dogecoin-show-relative-strength-as-risk-off-sentiment-lingers",
+    "date": ""
+  },
+  {
+    "title": "Cointelegraph - Fed Rate No Cut",
+    "url": "https://cointelegraph.com/news/fed-rate-cut-chance-fall-september-slowing-crypto-bull-run",
+    "date": ""
+  },
+  {
+    "title": "The Block - BTC Record Monthly High",
+    "url": "https://www.theblock.co/post/365177/bitcoin-highest-monthly-close",
+    "date": ""
+  },
+  {
+    "title": "The Block - Market Correction",
+    "url": "https://www.theblock.co/post/364068/ether-xrp-fall-amid-broader-market-correction",
+    "date": ""
+  },
+  {
+    "title": "The Block - Market Bounce",
+    "url": "https://www.theblock.co/post/364357/spot-ethereum-etfs-post-second-biggest-week-inflows",
+    "date": ""
+  },
+  {
+    "title": "The Block - Altcoins Climb Higher",
+    "url": "https://www.theblock.co/post/363512/bitcoin-ether-broader-altcoin-rally-uncertain",
+    "date": ""
+  },
+  {
+    "title": "The Block - ETH ETF New Highs",
+    "url": "https://www.theblock.co/post/363925/spot-ethereum-etfs-inflows-third-largest",
+    "date": ""
+  },
+  {
+    "title": "The Block - Altcoins Climb Higher",
+    "url": "https://www.theblock.co/post/363512/bitcoin-ether-broader-altcoin-rally-uncertain",
+    "date": ""
+  },
+  {
+    "title": "The Block - NFTs rebound",
+    "url": "https://www.theblock.co/post/363526/nft-market-cap-tops-6-billion",
+    "date": ""
+  },
+  {
+    "title": "Cointelegraph - ETH Treasury",
+    "url": "https://cointelegraph.com/news/btc-digital-announces-pivot-to-ethereum-in-strategic-shift",
+    "date": ""
+  },
+  {
+    "title": "Cointelegraph - $4T MCAP",
+    "url": "https://cointelegraph.com/news/crypto-market-cap-nears-4-trillion-amid-rally-crypto-legislation",
+    "date": ""
+  },
+  {
+    "title": "CoinDesk - CPI Fuel Bulls",
+    "url": "https://www.coindesk.com/markets/2025/07/16/ether-dogecoin-lead-modest-market-gains-bitcoin-holds-118k-as-cpi-print-fuels-rate-cut-bets",
+    "date": ""
+  },
+  {
+    "title": "The Block - ETH Rises",
+    "url": "https://www.theblock.co/post/363070/ether-rises-spot-eth-etfs-highest-ever-net-inflows",
+    "date": ""
+  },
+  {
+    "title": "The Block - BTC on CPI Data",
+    "url": "https://www.theblock.co/post/362804/spot-bitcoin-etfs-inflows-ibit",
+    "date": ""
+  },
+  {
+    "title": "Cointelegraph - US Deficit Concerns",
+    "url": "https://cointelegraph.com/news/bitcoin-rally-fueled-us-deficit-fiscal-concern",
+    "date": ""
+  },
+  {
+    "title": "Reuters - Shanghai Mulls Crypto",
+    "url": "https://www.reuters.com/business/retail-consumer/major-shift-shanghai-regulator-mulls-policy-responses-stablecoins-2025-07-11/",
+    "date": ""
+  },
+  {
+    "title": "Cointelegraph - BTC to $135k?",
+    "url": "https://cointelegraph.com/news/bitcoin-rally-135k-before-corrective-phase-analyst",
+    "date": ""
+  },
+  {
+    "title": "The Block - Bitcoin All Time High",
+    "url": "https://www.theblock.co/post/362134/bitcoin-sets-new-record-above-117000",
+    "date": ""
+  },
+  {
+    "title": "CoinDesk - Altcoin after BTC ATH",
+    "url": "https://www.coindesk.com/markets/2025/07/11/whats-next-for-ether-solana-xrp-and-other-majors-as-bitcoin-clears-118k",
+    "date": ""
+  },
+  {
+    "title": "The Block - Bitcoin Climbs to $109k",
+    "url": "https://www.theblock.co/post/361232/bitcoin-climbs-back-above-109000-after-weekend-slump-as-trump-pushes-tariff-deadline",
+    "date": ""
+  },
+  {
+    "title": "Cointelegraph - $2T Stablecoin Market",
+    "url": "https://cointelegraph.com/news/stablecoin-markets-reach-2-trillion-in-a-few-years-ripple-ceo",
+    "date": ""
+  },
+  {
+    "title": "TNGlobal - Risky Gold",
+    "url": "https://technode.global/2025/06/25/the-risky-gold-bitcoin-watches-fed-rate-decision/",
+    "date": ""
+  },
+  {
+    "title": "Cointelegraph - US Stock Futures BTC",
+    "url": "https://cointelegraph.com/news/us-stock-futures-record-sets-bitcoin-all-time-high-analysts",
+    "date": ""
+  },
+  {
+    "title": "Cointelegraph - Bitcoin dips to $100k",
+    "url": "https://cointelegraph.com/news/bitcoin-weakness-shall-pass-after-falling-below-100k-hayes",
+    "date": ""
+  },
+  {
+    "title": "CoinDesk - Bitcoin rebounds to $108k",
+    "url": "https://www.coindesk.com/markets/2025/06/26/bitcoin-nears-108k-as-fed-rate-cut-bets-rise-traders-eye-ether-solana-cardano",
+    "date": ""
+  },
+  {
+    "title": "Cointelegraph - BTC Gold Narrative",
+    "url": "https://cointelegraph.com/news/gold-reaches-near-all-time-high-is-bitcoin-follow",
+    "date": ""
+  },
+  {
+    "title": "CoinDesk - Crypto Majors Slide",
+    "url": "https://www.coindesk.com/markets/2025/06/18/xrp-ada-lead-crypto-majors-slide-while-bitcoin-watchers-target-return-to-highs-in-q3",
+    "date": ""
+  },
+  {
+    "title": "CoinDesk - BTC Above $109k",
+    "url": "https://www.coindesk.com/markets/2025/06/10/what-next-as-ether-zooms-7-doge-leads-majors-gains-amid-bitcoin-euphoria",
+    "date": ""
+  },
+  {
+    "title": "The Block - ETH ETFs Surge",
+    "url": "https://www.theblock.co/post/357880/spot-ethereum-etfs-pull-in-240-million-beating-bitcoin-etfs-164-million-daily-inflows",
+    "date": ""
+  },
+  {
+    "title": "CoinDesk - Trump/Musk Conflict",
+    "url": "https://www.coindesk.com/markets/2025/06/06/doge-ada-nosedive-7-as-crypto-traders-digest-recession-sentiment",
+    "date": ""
+  },
+  {
+    "title": "The Block - Overleveraged Washout",
+    "url": "https://www.theblock.co/post/357247/crypto-market-sees-nearly-1b-in-daily-liquidations-as-overleveraged-longs-are-caught-off-guard-by-macro-jitters",
+    "date": ""
+  },
+  {
+    "title": "CoinDesk - Traders Remain Optimistic",
+    "url": "https://www.coindesk.com/markets/2025/06/02/doge-xrp-sol-show-price-bottoming-as-bitcoin-traders-remain-optimistic",
+    "date": ""
+  },
+  {
+    "title": "The Block - Stablecoin $250b Market",
+    "url": "https://www.theblock.co/post/356545/stablecoin-market-capitalization-surpasses-250-billion-amid-accelerating-regulatory-momentum",
+    "date": ""
+  },
+  {
+    "title": "CoinDesk - Altcoins Surge",
+    "url": "https://www.coindesk.com/markets/2025/05/29/ether-only-crypto-major-in-green-xrp-muted-after-mammoth-treasury-plans",
+    "date": ""
+  },
+  {
+    "title": "CoinDesk - Renewed Tariff Fears",
+    "url": "https://www.coindesk.com/markets/2025/05/30/dogecoin-dives-9-cardanos-ada-sol-slump-6-as-renewed-tariff-fears-jolt-markets",
+    "date": ""
+  },
+  {
+    "title": "CoinDesk - Altcoins Surge",
+    "url": "https://www.coindesk.com/markets/2025/05/10/dogecoin-surges-10-bitcoin-nears-104k-amid-renewed-risk-on-sentiment",
+    "date": ""
+  },
+  {
+    "title": "CoinDesk - XRP Slides 4%",
+    "url": "https://www.coindesk.com/markets/2025/05/16/xrp-slides-4-as-bitcoin-traders-cautious-of-105k-price-resistance",
+    "date": ""
+  },
+  {
+    "title": "CoinDesk - Majors Gains Ahead of FOMC",
+    "url": "https://www.coindesk.com/markets/2025/05/07/bitcoin-sees-selling-at-usd97k-cardano-s-ada-leads-majors-gains-ahead-of-fomc-meeting",
+    "date": ""
+  },
+  {
+    "title": "The Block - ETH Jumps 20%",
+    "url": "https://www.theblock.co/post/353763/ethereum-jumps-after-pectra-upgrade-marking-largest-gain-in-four-years",
+    "date": ""
+  },
+  {
+    "title": "CoinDesk - Bitcoin waits on Tariff Deals",
+    "url": "https://www.coindesk.com/markets/2025/05/05/bitcoin-hovers-above-94k-as-market-awaits-news-on-us-china-trade-deal",
+    "date": ""
+  },
+  {
+    "title": "The Block - BTC Peaks Amid Volatility",
+    "url": "https://www.theblock.co/post/353371/bitcoin-peaks-above-97000-after-us-china-talk-plans",
+    "date": ""
+  },
+  {
+    "title": "CoinDesk - Altcoin Trends",
+    "url": "https://www.coindesk.com/markets/2025/04/24/zora-token-loses-its-spark-as-traders-remain-wary-of-vc-backed-tokens",
+    "date": ""
+  },
+  {
+    "title": "Seeking Alpha - BTC inches upwards",
+    "url": "https://seekingalpha.com/news/4440318-bitcoin-on-course-to-inch-upwards-on-course-to-rise-29-ww",
+    "date": ""
+  },
+  {
+    "title": "CoinDesk - Digital Gold Narrative",
+    "url": "https://www.coindesk.com/markets/2025/04/21/bnb-sol-xrp-spike-higher-as-bitcoin-digital-gold-narrative-makes-a-comeback",
+    "date": ""
+  },
+  {
+    "title": "CoinDesk - Bitcoin Decouple Continues",
+    "url": "https://www.coindesk.com/markets/2025/04/23/cardano-s-ada-ether-lead-market-gains-as-bitcoin-decoupling-continues",
+    "date": ""
+  },
+  {
+    "title": "The Block - Bitcoin Macro Decouple",
+    "url": "https://www.theblock.co/post/350115/bitcoin-macro-decoupling-discussion-yet-premature-10y-treasury-yield-signals-murky-outlook-analysts",
+    "date": ""
+  },
+  {
+    "title": "The Block - Flight to Safe Havens",
+    "url": "https://www.theblock.co/post/350513/spot-bitcoin-etfs-see-sixth-straight-day-of-outflows-as-tariff-tensions-fuel-flight-to-safe-havens",
+    "date": ""
+  },
+  {
+    "title": "Seeking Alpha - Bitcoin Flat on Tariffs",
+    "url": "https://seekingalpha.com/news/4428807-bitcoin-to-stay-flat-week-on-week-amid-tariff-storm",
+    "date": ""
+  },
+  {
+    "title": "The Block - Sell Now Think Later",
+    "url": "https://www.theblock.co/post/349765/sell-now-think-later-stampede-sends-bitcoin-ether-tumbling-alongside-asian-stocks-analyst-says",
+    "date": ""
+  },
+  {
+    "title": "CoinDesk - Traders Eye Weekly Data",
+    "url": "https://www.coindesk.com/markets/2025/03/24/xrp-doge-rise-ether-burn-falls-to-record-low-as-traders-eye-this-week-s-u-s-data",
+    "date": ""
+  },
+  {
+    "title": "The Block - DeFi TVL falls",
+    "url": "https://www.theblock.co/post/349565/defi-tvl-falls-30-from-december-high-to-below-95-billion-amid-global-economic-strains",
+    "date": ""
+  },
+  {
+    "title": "The Block - Stablecoins surpass $230B",
+    "url": "https://www.theblock.co/post/347405/total-stablecoin-market-cap-surpasses-230-billion-amid-institutional-interest-and-trump-policies",
+    "date": ""
+  },
+  {
+    "title": "CoinDesk - XRP Upward Movement",
+    "url": "https://www.coindesk.com/markets/2025/03/24/xrp-could-hit-usd10-by-2030-as-ripple-wraps-up-sec-case-analyst",
+    "date": ""
+  },
+  {
+    "title": "The Block - BTC recovers above $82k",
+    "url": "https://www.theblock.co/post/345840/bitcoin-recovers-to-above-82000-as-crypto-market-corrects-risk-off-sentiment",
+    "date": ""
+  },
+  {
+    "title": "CoinDesk - Buy The Dip Sentiment",
+    "url": "https://www.coindesk.com/markets/2025/03/17/bitcoin-slumps-ada-sol-xrp-drop-5-as-buy-the-dip-sentiment-persists",
+    "date": ""
+  },
+  {
+    "title": "CoinDesk - XRP, DOGE, ADA Slump",
+    "url": "https://www.coindesk.com/markets/2025/03/07/xrp-doge-ada-slump-9-as-trump-douses-bullish-crypto-reserve-hopes",
+    "date": ""
+  },
+  {
+    "title": "CoinDesk - $700M in Bullish Liquidations",
+    "url": "https://www.coindesk.com/markets/2025/03/11/dogecoin-ether-slump-9-as-bitcoin-tumble-leads-to-usd700m-in-long-liquidations",
+    "date": ""
+  },
+  {
+    "title": "The Block - Bitcoin dips below $80k",
+    "url": "https://www.theblock.co/post/343924/bitcoin-dips-below-80000-and-eth-tests-2100-amid-trump-tariff-concerns",
+    "date": ""
+  },
+  {
+    "title": "The Block - Bitcoin slides below $88k",
+    "url": "https://www.theblock.co/post/345131/bitcoin-slides-below-88000-analysts-say-trumps-bitcoin-reserve-less-bullish-than-anticipated",
+    "date": ""
+  },
+  {
+    "title": "CoinDesk - Trump Trade War on ETH",
+    "url": "https://www.coindesk.com/markets/2025/02/10/new-trump-tariffs-spell-caution-for-bitcoin-ether-dogecoin-bets",
+    "date": ""
+  },
+  {
+    "title": "The Block - Pump.fun launching AMM",
+    "url": "https://www.theblock.co/post/342926/raydiums-token-drops-28-as-pump-fun-appears-to-test-amm-feature",
+    "date": ""
+  },
+  {
+    "title": "CoinDesk - Trump Tariffs Dump Crypto",
+    "url": "https://www.coindesk.com/markets/2025/02/03/what-next-for-bitcoin-ether-xrp-as-donald-trump-eyes-further-tariffs",
+    "date": ""
+  },
+  {
+    "title": "The Block - BTC 100k on China Tariffs",
+    "url": "https://www.theblock.co/post/338683/bitcoin-lingers-below-100000-as-china-announces-retaliatory-tariffs-on-us-imports",
+    "date": ""
+  },
+  {
+    "title": "CoinDesk - Crypto Rebound FOMC",
+    "url": "https://www.coindesk.com/markets/2025/01/28/trump-xrp-surge-12-to-lead-crypto-rebound-ahead-of-fomc-meeting",
+    "date": ""
+  },
+  {
+    "title": "Seeking Alpha - BTC Falls on Tariffs",
+    "url": "https://seekingalpha.com/news/4401474-bitcoin-on-course-to-rise-marginally-as-it-shrugs-off-deepseek-fueled-jitters",
+    "date": ""
+  },
+  {
+    "title": "The Block - MSTR Falls After BTC Buy",
+    "url": "https://www.theblock.co/post/332689/microstrategy-stock-dips-below-300-in-after-hours-trading-down-46-from-november-peak",
+    "date": ""
+  },
+  {
+    "title": "The Block - ETH ETF Record Inflow",
+    "url": "https://www.theblock.co/post/332788/spot-ether-etfs-logged-record-monthly-inflows-exceeding-2-billion-in-december",
+    "date": ""
+  },
+  {
+    "title": "BlockHead - Hong Kong OKs CEXs",
+    "url": "https://www.blockhead.co/2024/12/19/hong-kong-issues-four-more-digital-asset-license/",
+    "date": ""
+  },
+  {
+    "title": "CoinDesk - AI Agents Takeover Crypto",
+    "url": "https://www.coindesk.com/markets/2024/12/30/ai-agents-capture-attention-as-ai-xbt-ai16z-and-virtuals-surge",
+    "date": ""
+  },
+  {
+    "title": "CoinDesk - BTC falls under $100k",
+    "url": "https://www.coindesk.com/markets/2024/12/19/bitcoins-nosedive-to-under-100-k-shaves-700-m-crypto-longs-xrp-drops-5",
+    "date": ""
+  },
+  {
+    "title": "Seeking Alpha - Bitcoin 2025 Outlook",
+    "url": "https://seekingalpha.com/news/4387368-bitcoin-2025-outlook-will-the-cryptocurrency-maintain-its-bull-run",
+    "date": ""
+  },
+  {
+    "title": "CoinDesk - BTC @ $100k!",
+    "url": "https://www.coindesk.com/markets/2024/12/05/traders-see-even-more-bitcoin-buying-pressure-as-btc-sets-new-record-at-103-k",
+    "date": ""
+  },
+  {
+    "title": "Reuters - Hong Kong Approves CEXs",
+    "url": "https://www.reuters.com/business/finance/hong-kong-approves-four-more-cryptocurrency-exchanges-2024-12-18/",
+    "date": ""
+  },
+  {
+    "title": "The Block - DOGE Surges 51%",
+    "url": "https://www.theblock.co/post/325704/dogecoin-market-cap-60-billion-usd",
+    "date": ""
+  },
+  {
+    "title": "TechNode Global - Bitcoin after $100k",
+    "url": "https://technode.global/2024/12/04/bitcoin-heading-100k-a-new-chapter-about-to-begin-for-crypto-adoption/",
+    "date": ""
+  },
+  {
+    "title": "The Block - Bitcoin Breaks ATH",
+    "url": "https://www.theblock.co/post/282319/bitcoin-all-time-high",
+    "date": ""
+  },
+  {
+    "title": "Seeking Alpha - BTC shy away from $70K mark",
+    "url": "https://seekingalpha.com/news/4203725-bitcoin-set-to-be-largely-flat-ww-continues-to-shy-away-from-70k-mark",
+    "date": ""
+  },
+  {
+    "title": "CoinDesk - BTC Price Correlation with PBOC Money Flow",
+    "url": "https://www.coindesk.com/markets/2024/09/27/bitcoin-prices-show-positive-30-day-correlation-with-chinas-central-bank-balance-sheet/",
+    "date": ""
+  },
+  {
+    "title": "Seeking Alpha - Bitcoin Falls on Geopolitical Tensions",
+    "url": "https://seekingalpha.com/news/4156504-bitcoin-to-fall-on-weekly-basis-as-geopolitical-tensions-spur-outflows-in-btc-etfs",
+    "date": ""
+  },
+  {
+    "title": "CoinDesk - Ether-Bitcoin Ratio Drops to Lowest",
+    "url": "https://www.coindesk.com/news-analysis/2024/09/16/ether-bitcoin-ratio-drops-to-lowest-since-april-2021-heres-why-it-matters/",
+    "date": ""
+  },
+  {
+    "title": "CoinDesk - Ether ETFs Record Biggest Outflows Since July",
+    "url": "https://www.coindesk.com/markets/2024/09/24/ether-etfs-record-biggest-outflows-since-july-in-sign-of-low-institutional-appeal/",
+    "date": ""
+  },
+  {
+    "title": "The Block - DeFi protocol fees dropped 24% in August",
+    "url": "https://www.theblock.co/post/314117/defi-market-monthly-fee-revenue-drop",
+    "date": ""
+  },
+  {
+    "title": "The Block - Bitcoin slips under $60,000 again",
+    "url": "https://www.theblock.co/post/313357/bitcoin-slips-under-60000-again-as-crypto-market-faces-broad-pressure",
+    "date": ""
+  },
+  {
+    "title": "The Block - BTC Climbs with Trump Endorsement",
+    "url": "https://www.theblock.co/post/307952/bitcoin-inches-toward-70000-following-trumps-heightened-crypto-endorsement",
+    "date": ""
+  },
+  {
+    "title": "The Block - ETH Falls to $3,200 amid Market Correction",
+    "url": "https://www.theblock.co/post/307346/ether-slides-below-3200-amid-broad-crypto-market-pullback",
+    "date": ""
+  },
+  {
+    "title": "The Block - BTC ETF Anticipation",
+    "url": "https://www.theblock.co/post/305776/bitcoin-briefly-peaks-above-66000-ether-edges-up",
+    "date": ""
+  },
+  {
+    "title": "CoinDesk - BTC Climbs as Trump Increases Chances",
+    "url": "https://www.coindesk.com/markets/2024/07/17/bitcoin-bulls-eye-70k-amid-donald-trumps-rising-chances-of-returning-as-president/",
+    "date": ""
+  },
+  {
+    "title": "CoinDesk - BNB Chain Ecosystem Heats Up",
+    "url": "https://www.coindesk.com/markets/2024/06/05/bnb-chain-ecosystem-heats-up-as-token-hits-lifetime-high-above-710/",
+    "date": ""
+  },
+  {
+    "title": "The Block - BTC Dips as Mt Gox Moves Funds",
+    "url": "https://www.theblock.co/post/303594/bitcoin-dips-mt-gox-moves-btc",
+    "date": ""
+  },
+  {
+    "title": "The Block - GBTC Daily Outflow Hits Record Low",
+    "url": "https://www.theblock.co/post/287734/gbtc-daily-outflow",
+    "date": ""
+  },
+  {
+    "title": "Blockhead - Hong Kong Launches BTC & ETH ETFs",
+    "url": "https://www.blockhead.co/2024/04/15/hong-kong-makes-history-with-bitcoin-ethereum-etf-approvals/",
+    "date": ""
+  },
+  {
+    "title": "CoinDesk - Solana Memecoins Moon",
+    "url": "https://www.coindesk.com/markets/2024/03/18/bitcoin-back-above-67k-as-memecoins-push-up-sol-and-avax/",
+    "date": ""
+  },
+  {
+    "title": "CoinDesk - HK BTC ETFs Unlock $25B in Demand",
+    "url": "https://www.coindesk.com/markets/2024/04/12/hong-kong-listed-bitcoin-etfs-could-unlock-upto-25b-in-demand-crypto-firm-says/",
+    "date": ""
+  },
+  {
+    "title": "CoinDesk - Meme Coins New Rally",
+    "url": "https://www.coindesk.com/markets/2024/03/04/pepecoin-becomes-biggest-meme-coin-gainer-as-doge-shib-rally-eases/",
+    "date": ""
+  },
+  {
+    "title": "The Block - BTC Ordinals Price Surge",
+    "url": "https://www.theblock.co/post/283001/bitcoin-ordinals-nft-interest-soars-as-nodemonkes-records-53-surge-in-floor-price",
+    "date": ""
+  },
+  {
+    "title": "CoinDesk - Meme Coins Price Pump",
+    "url": "https://www.coindesk.com/markets/2024/02/27/pepe-and-wif-jump-50-putting-ethereum-and-solana-meme-coins-in-focus/",
+    "date": ""
+  },
+  {
+    "title": "Bitcoin Magazine - BTC ETF struggle for legitimacy",
+    "url": "https://bitcoinmagazine.com/culture/bitcoin-etf-a-decade-of-struggle-for-legitimacy",
+    "date": ""
+  },
+  {
+    "title": "Reuters - Price action after ETF approval",
+    "url": "https://www.reuters.com/technology/bitcoin-holds-firm-after-regulators-approve-etfs-2024-01-11/",
+    "date": ""
+  },
+  {
+    "title": "CoinDesk - Bitcoin & luxury watch correlation",
+    "url": "https://www.coindesk.com/markets/2024/01/30/bitcoin-etf-has-broken-btcs-pandemic-era-price-correlation-with-luxury-watches/",
+    "date": ""
+  },
+  {
+    "title": "The Block - OKX NFTs surpass Blur & OpenSea",
+    "url": "https://www.theblock.co/post/268019/okx-nft-volume-blur-opensea-bitcoin-ordinals",
+    "date": ""
+  },
+  {
+    "title": "TechNode Global - 2023 Trends & 2024 Predictions",
+    "url": "https://www.linkedin.com/posts/technodeglobal_ai-privacy-kyc-activity-7148833093619957761-CHTa/",
+    "date": ""
+  },
+  {
+    "title": "CoinDesk - ETH Price Gain Is Outpacing NFTs",
+    "url": "https://www.coindesk.com/markets/2023/11/30/nft-prices-are-still-lagging-behind-ethers-gains/",
+    "date": ""
+  },
+  {
+    "title": "Bitcoin Magazine - Bitcoin ETF decade of struggle",
+    "url": "https://bitcoinmagazine.com/culture/bitcoin-etf-a-decade-of-struggle-for-legitimacy",
+    "date": ""
+  },
+  {
+    "title": "Forkast IQ - Crypto markets September Interview",
+    "url": "https://forkast.news/video-audio/g20-india-blockchain-week-sg-president/",
+    "date": ""
+  },
+  {
+    "title": "Medium - Lending Protocols: Fixed vs Variable",
+    "url": "https://medium.com/@nickruck/lending-protocols-fixed-versus-variable-rates-e98512dbf58d",
+    "date": ""
+  },
+  {
+    "title": "Forkast - Litecoin falls by 6% after halving",
+    "url": "https://forkast.news/headlines/litecoin-price-fall-6-after-halving/",
+    "date": ""
+  },
+  {
+    "title": "CoinDesk - Curve founder sells tokens for loan",
+    "url": "https://www.coindesk.com/business/2023/08/03/curve-founder-still-owes-80m-despite-raising-nearly-30m-in-past-two-days/",
+    "date": ""
+  },
+  {
+    "title": "The Block - Digital Yuan Use Cases",
+    "url": "https://www.theblock.co/post/240199/as-digital-yuan-hype-fades-china-must-find-fresh-institutional-use-cases",
+    "date": ""
+  },
+  {
+    "title": "Forkast - Crypto Markets Flat Since ETFs",
+    "url": "https://forkast.news/bitcoin-ether-trade-flat-bitcoin-etfs-ripple-fade/",
+    "date": ""
+  },
+  {
+    "title": "CoinDesk - USDT Depegs on Binance.us",
+    "url": "https://www.coindesk.com/markets/2023/07/11/first-mover-asia-individual-wallets-holding-1-bitcoin-hit-all-time-high-as-btc-maintains-30k/",
+    "date": ""
+  },
+  {
+    "title": "Forkast - Asian Nations Clarify Crypto Rules",
+    "url": "https://forkast.news/south-korea-singapore-thailand-clarify-crypto-rules/",
+    "date": ""
+  },
+  {
+    "title": "Forkast - BlackRock Applies for BTC ETF",
+    "url": "https://forkast.news/bitcoin-breaches-30000-on-institutional-interest/",
+    "date": ""
+  },
+  {
+    "title": "Forkast - Market Reaction to SEC lawsuits",
+    "url": "https://forkast.news/bitcoin-ether-crypto-polygon-solana-cardano-bnb/",
+    "date": ""
+  },
+  {
+    "title": "SCMP - HK BoC Issue 200m CNY on Ethereum",
+    "url": "https://www.scmp.com/tech/tech-trends/article/3223922/bank-china-unit-issues-digital-securities-ethereum-blockchain-hong-kong-amid-citys-virtual-asset",
+    "date": ""
+  },
+  {
+    "title": "Forkast - Binance BTC NFTs & SEC Lawsuits",
+    "url": "https://forkast.news/bitcoin-ether-most-other-top-crypto-bounce-back-even-as-sec-sues-binance-coinbase/",
+    "date": ""
+  },
+  {
+    "title": "Forkast - Ethereum Validators & Staking",
+    "url": "https://forkast.news/ethereum-validators-win-short-term-as-blur-opensea-rivalry-drives-up-gas-fees/",
+    "date": ""
+  },
+  {
+    "title": "TechNode Global - Is HK Ready for Digital Assets",
+    "url": "https://technode.global/2023/05/04/is-hong-kong-ready-for-the-return-of-the-digital-assets-industry/",
+    "date": ""
+  },
+  {
+    "title": "CoinDesk - Silvergate Banking Crisis & Crypto",
+    "url": "https://www.coindesk.com/markets/2023/03/03/bitcoin-ether-drop-over-5-in-massive-sell-off-as-market-continues-to-digest-silvergate/",
+    "date": ""
+  }
+]
